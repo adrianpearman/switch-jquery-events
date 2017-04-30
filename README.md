@@ -22,3 +22,4 @@ Start with small steps:
   - use an `if` statement to check the state and change the text
   - try the jQuery `toggleClass` function to change the light and dark backgrounds. _Is that as safe as adding/removing classes directly?_
   - you should be able to click the `.switch` many times and it should change between light and dark modes
+# switch-jquery-events
